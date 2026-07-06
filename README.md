@@ -1,74 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00F7FF&height=200&section=header&text=ICIKIWIR&fontSize=60&fontColor=00F7FF&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%26%20IoT%20Developer&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=220&section=header&text=YUSUF%20NC&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Internet%20of%20Things%20Enthusiast%20%7C%20Embedded%20Systems%20Developer&descAlignY=52&descSize=16&descColor=00F7FF" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=root%40yusuf%3A~%24+booting+system...;%3E+loading+modules%3A+ESP32%2C+Arduino%2C+MQTT;%3E+status%3A+building+thesis_project.ino;%3E+location%3A+Semarang%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;%3E+ready_to_collab%3A+true" alt="Typing SVG" />
+
+<img src="https://komarev.com/ghpvc/?username=Yusufnc260704&style=for-the-badge&color=00f7ff&labelColor=0D1117&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Yusufnc260704?style=for-the-badge&color=00f7ff&labelColor=0D1117" />
 
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=%3E+booting+embedded_systems.exe...;%3E+loading+ESP32+%2B+Arduino+modules...;%3E+status%3A+building+thesis+project+%F0%9F%8E%93;%3E+ready_to_debug%3A+true" alt="Typing SVG" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?style=for-the-badge&color=00f7ff&labelColor=0D1117" />
-</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-### `$ whoami`
+### ⚡ `system_info.yaml`
 
-```bash
-> Name       : Yusheup
-> Role       : Student / Embedded Systems Developer
-> Focus      : IoT · Embedded Systems · Networking
-> Current    : Water Level Monitoring System (Thesis)
-> Motto      : "Minimal, targeted fixes > full rewrites"
-> Status     : Debugging sensors at 2 AM 🔧
+```yaml
+name        : "Yusuf Nur Cahyo"
+role        : "Student · Embedded Systems & IoT Developer"
+university   : "Universitas Muhammadiyah Semarang"
+location     : "Semarang, Central Java, Indonesia"
+focus        : ["IoT", "Embedded Systems", "Networking", "Web Development"]
+current_build: "Water Level Monitoring System (Thesis)"
+philosophy   : "Minimal, targeted fixes > full rewrites"
+status       : "🟢 online — debugging sensors somewhere in the night"
 ```
 
 ---
 
-### 🛰️ Tech Arsenal
+### 🛰️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" />
-  <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blynk-03C3CC?style=for-the-badge&logo=blynk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino,cpp,cloudflare,html,css,js,php,vue,mysql&theme=dark" /><br/>
+
+<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/MQTT-000000?style=for-the-badge&logo=mqtt&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Node--RED-000000?style=for-the-badge&logo=nodered&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/InfluxDB-000000?style=for-the-badge&logo=influxdb&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Grafana-000000?style=for-the-badge&logo=grafana&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Blynk-000000?style=for-the-badge&logo=blynk&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge&logo=mikrotik&logoColor=00F7FF" />
+
+</div>
 
 ---
 
-### 🚀 Featured Builds
+### 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### 💧 Water Level Monitoring
-*Thesis Project*
+#### 💧 Water Level Monitoring System
+*Thesis Project — In Progress*
 
-ESP32 + JSN-SR04T ultrasonic sensor → Blynk + Telegram alerts + LCD + buzzer. Custom median filtering & `micros()`-based timing for precision, multi-tier SIAGA alert thresholds.
+ESP32 + JSN-SR04T ultrasonic sensor with Blynk, Telegram alerts, LCD, and buzzer indicators. Custom median-filtered readings, `micros()`-based precision timing, and multi-tier SIAGA flood-alert thresholds.
 
-`ESP32` `Blynk` `Telegram Bot`
+`ESP32` `Blynk` `Telegram Bot` `IoT`
 
 </td>
 <td width="50%" valign="top">
 
-#### 🌡️ Smart Home IoT Stack
+#### 🌡️ Smart Home Monitoring Stack
 
-NodeMCU ESP8266 + DHT22 → MQTT (HiveMQ Cloud) → Node-RED → InfluxDB Cloud → Grafana real-time dashboard.
+NodeMCU ESP8266 + DHT22 sensor piping data through MQTT (HiveMQ Cloud) → Node-RED → InfluxDB Cloud → Grafana for real-time temperature & humidity visualization.
 
-`ESP8266` `MQTT` `Grafana`
+`ESP8266` `MQTT` `Node-RED` `Grafana`
 
 </td>
 </tr>
@@ -77,38 +78,62 @@ NodeMCU ESP8266 + DHT22 → MQTT (HiveMQ Cloud) → Node-RED → InfluxDB Cloud 
 
 #### 🔥 Fire-Fighting Robot
 
-Arduino Uno + triangulated IR flame sensors (L/C/R) + L298N motor driver + relay cooling fan for autonomous detection & suppression.
+Arduino Uno-based autonomous robot using triangulated IR flame sensors (left/center/right), L298N motor driver, and relay-controlled cooling fan for fire suppression.
 
-`Arduino` `IR Sensors` `Robotics`
+`Arduino` `IR Sensors` `L298N` `Robotics`
 
 </td>
 <td width="50%" valign="top">
 
-#### 📊 IoT Sensor Dashboard
+#### 📋 <a href="https://github.com/Yusufnc260704/Kelompok-1">Kelompok-1 — Absen</a>
 
-Vue 3 + Vite + Pinia + Chart.js dashboard with radar visualization & live trend charts for distance/object detection.
+Aplikasi presensi (attendance) berbasis web, dikembangkan sebagai proyek kelompok.
 
-`Vue 3` `Pinia` `Chart.js`
+`Web` `Group Project`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏨 <a href="https://github.com/Yusufnc260704/ReservasiWismaBBPMP">Reservasi Wisma BBPMP</a>
+
+Sistem reservasi/booking wisma berbasis PHP untuk manajemen pemesanan kamar.
+
+`PHP` `MySQL` `Booking System`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📖 <a href="https://github.com/Yusufnc260704/Website-BukuTamu">Website Buku Tamu</a>
+
+Website buku tamu digital untuk pencatatan kunjungan tamu secara online.
+
+`HTML` `CSS` `Web`
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+<sub>🔗 Lihat semua proyek di <a href="https://github.com/Yusufnc260704?tab=repositories">tab Repositories</a></sub>
+</div>
+
 ---
 
-### 📊 Stats Terminal
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yusufnc260704&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yusufnc260704&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yusufnc260704&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=c9d1d9" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yusufnc260704&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff" width="90%" />
 </p>
 
 ---
@@ -116,7 +141,7 @@ Vue 3 + Vite + Pinia + Chart.js dashboard with radar visualization & live trend 
 ### 🏆 Trophy Room
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yusufnc260704&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
@@ -124,13 +149,23 @@ Vue 3 + Vite + Pinia + Chart.js dashboard with radar visualization & live trend 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Yusufnc260704/Yusufnc260704/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-> ⚠️ Snake ini butuh setup GitHub Action sekali (dijelasin di bawah), tidak otomatis muncul kalau belum di-setup.
 
 ---
 
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:yusufnc26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-yusufnc26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-coming%20soon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://instagram.com/yusheeup">
+    <img src="https://img.shields.io/badge/Instagram-%40yusheeup-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0D1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=100&section=footer" width="100%" />
 </div>
