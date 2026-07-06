@@ -1,17 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=220&section=header&text=YUSUF%20NC&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Internet%20of%20Things%20Enthusiast%20%7C%20Embedded%20Systems%20Developer&descAlignY=52&descSize=16&descColor=00F7FF" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=root%40yusuf%3A~%24+booting+system...;%3E+loading+modules%3A+ESP32%2C+Arduino%2C+MQTT;%3E+status%3A+building+thesis_project.ino;%3E+location%3A+Semarang%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;%3E+ready_to_collab%3A+true" alt="Typing SVG" />
-
-<img src="https://komarev.com/ghpvc/?username=Yusufnc260704&style=for-the-badge&color=00f7ff&labelColor=0D1117&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Yusufnc260704?style=for-the-badge&color=00f7ff&labelColor=0D1117" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=3&width=800" />
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+# YUSHEUP
+
+<sub>INTERNET OF THINGS ENTHUSIAST &nbsp;·&nbsp; EMBEDDED SYSTEMS DEVELOPER</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=3&width=800" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=root%40yusuf%3A~%24+booting+system...;%3E+loading+modules%3A+ESP32%2C+Arduino%2C+MQTT;%3E+status%3A+building+thesis_project.ino;%3E+location%3A+Semarang%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9;%3E+ready_to_collab%3A+true" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Yusufnc260704&style=flat-square&color=0D1117&label=PROFILE+VIEWS" height="24" />
+<img src="https://img.shields.io/github/followers/Yusufnc260704?style=flat-square&color=0D1117&labelColor=0D1117" height="24" />
+
+</div>
 
 ---
 
@@ -167,5 +175,7 @@ Website buku tamu digital untuk pencatatan kunjungan tamu secara online.
 </p>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00F7FF,100:0D1117&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00F7FF&height=3&width=800" />
+<br/><br/>
+<sub>© 2026 Yusuf NC — built with care, one commit at a time</sub>
 </div>
