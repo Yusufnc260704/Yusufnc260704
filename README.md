@@ -138,10 +138,10 @@ Website buku tamu digital untuk pencatatan kunjungan tamu secara online.
 
 ---
 
-### 🏆 Trophy Room
+### 📜 Certifications
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yusufnc260704&theme=tokyonight&no-frame=true&margin-w=10&row=1" />
+  <img src="https://img.shields.io/badge/MTCNA-MikroTik%20Certified%20Network%20Associate-293239?style=for-the-badge&logo=mikrotik&logoColor=00F7FF" />
 </p>
 
 ---
