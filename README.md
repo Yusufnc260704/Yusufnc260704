@@ -30,7 +30,7 @@
 ### ⚡ `system_info.yaml`
 
 ```yaml
-name        : "Yusuf"
+name        : "Yusuf Nur Cahyo"
 role        : "Student · Embedded Systems & IoT Developer"
 university   : "Universitas Muhammadiyah Semarang"
 location     : "Semarang, Central Java, Indonesia"
