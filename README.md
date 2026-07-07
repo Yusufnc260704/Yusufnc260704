@@ -4,7 +4,11 @@
 
 <br/>
 
-# YUSHEUP
+<img src="https://cdn.corenexis.com/f/VduzbI6Qko2.avif" width="100%" style="max-height:280px; object-fit:cover;" />
+
+<br/>
+
+# Yusheup!
 
 <sub>INTERNET OF THINGS ENTHUSIAST &nbsp;·&nbsp; EMBEDDED SYSTEMS DEVELOPER</sub>
 
@@ -26,7 +30,7 @@
 ### ⚡ `system_info.yaml`
 
 ```yaml
-name        : "Yusuf Nur Cahyo"
+name        : "Yusuf"
 role        : "Student · Embedded Systems & IoT Developer"
 university   : "Universitas Muhammadiyah Semarang"
 location     : "Semarang, Central Java, Indonesia"
