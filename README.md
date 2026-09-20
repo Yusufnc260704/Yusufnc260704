@@ -50,6 +50,9 @@ status       : "🟢 online — debugging sensors somewhere in the night"
 
 <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=00F7FF" />
 <img src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=espressif&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Raspberry Pi-000000?style=for-the-badge&logo=espressif&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=espressif&logoColor=00F7FF" />
+<img src="https://img.shields.io/badge/STM32-000000?style=for-the-badge&logo=espressif&logoColor=00F7FF" />
 <img src="https://img.shields.io/badge/MQTT-000000?style=for-the-badge&logo=mqtt&logoColor=00F7FF" />
 <img src="https://img.shields.io/badge/Node--RED-000000?style=for-the-badge&logo=nodered&logoColor=00F7FF" />
 <img src="https://img.shields.io/badge/InfluxDB-000000?style=for-the-badge&logo=influxdb&logoColor=00F7FF" />
@@ -97,9 +100,7 @@ Arduino Uno-based autonomous robot using triangulated IR flame sensors (left/cen
 </td>
 <td width="50%" valign="top">
 
-#### 📋 <a href="https://github.com/Yusufnc260704/Kelompok-1">Kelompok-1 — Absen</a>
 
-Aplikasi presensi (attendance) berbasis web, dikembangkan sebagai proyek kelompok.
 
 `Web` `Group Project`
 
